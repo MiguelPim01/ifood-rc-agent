@@ -24,8 +24,8 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd IFood
+    git clone https://github.com/MiguelPim01/ifood-rc-agent.git
+    cd ifood-rc-agent
     ```
 
 2.  **Crie e ative um ambiente virtual (opcional, mas recomendado):**
