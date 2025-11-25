@@ -1,0 +1,6 @@
+pandas
+ipykernel
+langchain-openai
+langchain-chroma
+chromadb
+python-dotenv
